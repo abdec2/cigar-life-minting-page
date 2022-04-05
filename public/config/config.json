@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x332bc2fc270b174B62b580D2e4D1fDf7F0c3aBDB",
+  "SCAN_LINK": "https://polygonscan.com/address/0x332bc2fc270b174b62b580d2e4d1fdf7f0c3abdb",
+  "NETWORK": {
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Cigar Life",
+  "SYMBOL": "CGRLF",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
